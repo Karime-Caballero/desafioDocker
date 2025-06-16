@@ -9,7 +9,7 @@ function About() {
 }
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename = "/desafioDocker">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
