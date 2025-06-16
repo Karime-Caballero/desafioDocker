@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/desafioDocker/static/css/main.f855e6bc.css",
-    "main.js": "/desafioDocker/static/js/main.c515a8d4.js",
+    "main.js": "/desafioDocker/static/js/main.e2691a20.js",
     "static/js/453.ea12d668.chunk.js": "/desafioDocker/static/js/453.ea12d668.chunk.js",
     "index.html": "/desafioDocker/index.html",
     "main.f855e6bc.css.map": "/desafioDocker/static/css/main.f855e6bc.css.map",
-    "main.c515a8d4.js.map": "/desafioDocker/static/js/main.c515a8d4.js.map",
+    "main.e2691a20.js.map": "/desafioDocker/static/js/main.e2691a20.js.map",
     "453.ea12d668.chunk.js.map": "/desafioDocker/static/js/453.ea12d668.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c515a8d4.js"
+    "static/js/main.e2691a20.js"
   ]
 }
