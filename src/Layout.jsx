@@ -19,7 +19,7 @@ const Layout = () => {
                 alignItems: 'center',
                 boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
             }}>
-                <h1 style={{ margin: 0, fontSize: '1.5rem' }}>Mi Sitio Karime Alejandra</h1>
+                <h1 style={{ margin: 0, fontSize: '1.5rem' }}>Mi Sitio Karime 16 de junio 2025</h1>
                 <nav>
                     <Link to="/" style={linkStyle}>Inicio</Link>
                     <Link to="/about" style={linkStyle}>Acerca de</Link>
